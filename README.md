@@ -6,5 +6,7 @@
 *Wow aprendiendo a editar en Github*
 **Algo mas**
  :red_circle:
-http://github.com - automatic!
+
+
+
 [GitHub](http://github.com)
